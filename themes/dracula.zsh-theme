@@ -1,1 +1,1 @@
-.dracula-zsh/zsh/dracula.zsh-theme
+/Users/nctiggy/.dracula-zsh/dracula.zsh-theme
